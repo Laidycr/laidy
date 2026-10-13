@@ -1,4 +1,3 @@
-
 // Obtener el botón de contacto
 const boton = document.getElementById("btnMensaje");
 
